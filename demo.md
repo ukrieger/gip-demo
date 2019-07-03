@@ -6,7 +6,7 @@ Test 1 2 3
 
 - zweiter
 
-- dritter
+- 3.
 
 ```sequence
 Alice->Bob:Hello Bob, how are you?
